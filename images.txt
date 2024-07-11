@@ -1,2 +1,3 @@
 linkease/ddnsto
 nginx
+--platform=linux/arm64 xiaoyaliu/alist
