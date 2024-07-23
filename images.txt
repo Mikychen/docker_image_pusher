@@ -1,4 +1,3 @@
 linkease/ddnsto
 nginx
 --platform=linux/amd64 xiaoyaliu/alist
-wanbaolu/chfs:3.1-alpin
